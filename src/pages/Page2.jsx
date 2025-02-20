@@ -34,7 +34,7 @@ function Page2(){
             <div className="img-details w-[30vw] h-auto  ">
               <div className="imageWRAP flex items-end">
               <a className='' href="https://sundown-studio-clone-nine.vercel.app/">
-                <img src="src/assets/sundown-mcb.png" alt="" className=' object-cover hover:scale-120 transition duration-300' />
+                <img src="public/assets/sundown-mcb.png" alt="" className=' object-cover hover:scale-120 transition duration-300' />
               </a>
             </div>
             </div>
@@ -50,7 +50,7 @@ function Page2(){
             <div className="img-details w-[30vw] h-auto  ">
               <div className="imageWRAP flex items-end">
                 <a className='' href="https://reigns-god.vercel.app/">
-                  <img src="src/assets/nft-mac.png" alt="" className=' object-cover hover:scale-120 transition duration-300' />
+                  <img src="public/assets/nft-mac.png" alt="" className=' object-cover hover:scale-120 transition duration-300' />
                 </a>
               </div>
             </div>
@@ -106,7 +106,7 @@ function Page2(){
             <div className="img-details w-[30vw] h-auto  ">
               <div className="imageWRAP flex items-end">
               <a className='' href="https://pratyush-capstone.netlify.app//">
-                <img src="src/assets/capestone-mac.png" alt="" className=' object-cover hover:scale-120 transition duration-300' />
+                <img src="public/assets/capestone-mac.png" alt="" className=' object-cover hover:scale-120 transition duration-300' />
               </a>
             </div>
             </div>
