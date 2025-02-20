@@ -3,6 +3,7 @@ import LandingPg from './pages/LandingPg'
 import Page2 from './pages/Page2'
 import Skills from './pages/Skills'
 import "./index.css"
+import AboutMe from './pages/AboutMe'
 
 const App = () => {
   return (
@@ -11,6 +12,7 @@ const App = () => {
       <LandingPg/>
       <Page2 />
       <Skills/>
+      <AboutMe/>
     </div>
   </>
   )
